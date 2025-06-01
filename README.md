@@ -1,3 +1,3 @@
-# 我的学术主页
+### My academic homepage
 
-**My howepage:** http://zhouxiuze.com/
+**My howepage:** [http://zhouxiuze.com/](https://jiaweizhang-thu.github.io/)
